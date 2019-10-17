@@ -20,7 +20,8 @@
   "author": "matt-d-brown <hi@mattbrown.email>",
   "license": "MIT",
   "dependencies": {
-    "micro-bot": "^2.5.1"
+    "micro": "9.3.4",
+    "micro-bot": "2.5.3"
   },
   "devDependencies": {
     "eslint": "^5.9.0",
